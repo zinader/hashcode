@@ -1,6 +1,9 @@
 {
+    "scripts": {
+        "deploy": "gh-pages"
+    },
     "dependencies": {
-        "deploy": "gh-pages",
+
         "@codedoc/core": "^0.2.20"
     }
 }
